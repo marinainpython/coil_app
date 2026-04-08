@@ -95,7 +95,6 @@ tokenizers==0.22.2
 toml==0.10.2
 tornado==6.5.5
 tqdm==4.67.3
-transformers==4.57.3
 typer==0.24.1
 typing-inspection==0.4.2
 typing_extensions==4.15.0
